@@ -1,0 +1,1 @@
+https://www.codecheef.org/article/polymorphic-relationship-in-laravel
